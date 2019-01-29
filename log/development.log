@@ -2002,3 +2002,5 @@ Cannot render console from 162.213.236.125! Allowed networks: 127.0.0.1, ::1, 12
 Started GET "/products/new" for 162.213.236.125 at 2019-01-29 19:40:27 +0000
 Cannot render console from 162.213.236.125! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
 Processing by ProductsController#new as HTML
+  Rendered products/new.html.erb within layouts/application (716.0ms)
+Completed 200 OK in 740ms (Views: 738.3ms | ActiveRecord: 0.0ms)
