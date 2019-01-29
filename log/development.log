@@ -2086,3 +2086,5 @@ Completed 200 OK in 276ms (Views: 264.8ms | ActiveRecord: 0.7ms)
 Started GET "/products/new" for 162.213.236.125 at 2019-01-29 19:53:49 +0000
 Cannot render console from 162.213.236.125! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
 Processing by ProductsController#new as HTML
+  Rendered products/new.html.erb within layouts/application (774.3ms)
+Completed 200 OK in 792ms (Views: 790.8ms | ActiveRecord: 0.0ms)
