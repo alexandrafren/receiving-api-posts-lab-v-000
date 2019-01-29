@@ -1997,3 +1997,8 @@ Cannot render console from 162.213.236.125! Allowed networks: 127.0.0.1, ::1, 12
 
 Started GET "/assets/jquery_ujs.self-784a997f6726036b1993eb2217c9cb558e1cbb801c6da88105588c56f13b466a.js?body=1" for 162.213.236.125 at 2019-01-29 19:40:23 +0000
 Cannot render console from 162.213.236.125! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/products/new" for 162.213.236.125 at 2019-01-29 19:40:27 +0000
+Cannot render console from 162.213.236.125! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by ProductsController#new as HTML
